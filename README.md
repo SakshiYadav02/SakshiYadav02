@@ -5,7 +5,7 @@
 <P>
 <b>😄 Pronouns: She/Her<br>
 🌱 I’m currently working on improving my skillsets<br>
-👀 I’m interested in Software Devlopment/Web Development<br>
+👀 I’m interested in Software Devlopment/Web Development/Data Analytics<br>
 🎀 Hobbies: Photography, Sketching, Traveling<br></b>
 </P>
 <br>
